@@ -1,2 +1,5 @@
 # dotfiles
-learning javascript — exercises and experiments
+
+这是一个用于记录 JavaScript 学习过程的个人项目，主要存放日常练习、代码实验和学习笔记。
+
+项目会持续更新，用来整理实践中的思路、示例与阶段性成果。
